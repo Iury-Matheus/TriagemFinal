@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icones">
+        <file>icones/icons8-abrir-pasta-filled-50.png</file>
+        <file>icones/icons8-salvar-como-filled-50.png</file>
+        <file>icones/icons8-salvar-filled-50.png</file>
+    </qresource>
+</RCC>
